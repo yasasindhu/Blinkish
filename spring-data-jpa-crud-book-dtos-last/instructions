@@ -1,0 +1,12 @@
+1)Error page while exception arises
+2)One relation 
+3)dto's
+4)null checks on title,author,category kind of imp field
+5)Aop just logging stuff
+
+
+Done with point 4,1 (no need asnwered by ramya),
+->coming to discussion of bidirectional or unidirectional if a book is removed author need not be removed because he can have other books published
+ so conclusion is if author is removed his respective books should also be deleted.
+ Finally done with relations as well 2
+ 
